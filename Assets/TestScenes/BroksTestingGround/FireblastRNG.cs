@@ -10,7 +10,6 @@ public class FireblastRNG : MonoBehaviour
     public float bulletLifetime = 1.0f;
     public float shootDelay = 1.0f;
 
-
     // Start is called before the first frame update
     void Start()
     {
