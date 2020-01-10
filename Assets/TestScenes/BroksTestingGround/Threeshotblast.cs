@@ -23,7 +23,6 @@ public class Threeshotblast : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space) && Time.time > nextShot)
         {
 
             nextShot = Time.time + timeBetweenShots;

@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FireblastRNG : MonoBehaviour
+public class MeteorShowerScript : MonoBehaviour
 {
-    public Transform player;
+   public Transform player;
     public GameObject prefab;
     public float bulletSpeed = 10.0f;
     public float bulletLifetime = 1.0f;
@@ -29,7 +29,6 @@ public class FireblastRNG : MonoBehaviour
     {
         GameObject bullet = Instantiate(prefab, transform.position, Quaternion.identity);
         Vector2 shootDir = new Vector2(player.position.x - transform.position.x, player.position.y - transform.position.y);
-        shootDir.Normalize();
         bullet.GetComponent<Rigidbody2D>().velocity = shootDir * bulletSpeed;
         Destroy(bullet, bulletLifetime);
     } 
