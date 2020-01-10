@@ -1,0 +1,1543 @@
+fileFormatVersion: 2
+guid: 9927a79861b0ee543ad28161651cd06c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1000114819610111317
+    second: Evil Wizard Boss FINAL FORM_0
+  - first:
+      213: 5627918243236585636
+    second: Evil Wizard Boss FINAL FORM_1
+  - first:
+      213: 7867442789481067952
+    second: Evil Wizard Boss FINAL FORM_2
+  - first:
+      213: 7946998704952546444
+    second: Evil Wizard Boss FINAL FORM_3
+  - first:
+      213: 27249882367273699
+    second: Evil Wizard Boss FINAL FORM_4
+  - first:
+      213: -6600759710465645687
+    second: Evil Wizard Boss FINAL FORM_5
+  - first:
+      213: -3873567749560125913
+    second: Evil Wizard Boss FINAL FORM_6
+  - first:
+      213: -5208197835695943090
+    second: Evil Wizard Boss FINAL FORM_7
+  - first:
+      213: 3201989426324078055
+    second: Evil Wizard Boss FINAL FORM_8
+  - first:
+      213: 8007997491866513624
+    second: Evil Wizard Boss FINAL FORM_9
+  - first:
+      213: -3367918571265464415
+    second: Evil Wizard Boss FINAL FORM_10
+  - first:
+      213: -3490000188686275008
+    second: Evil Wizard Boss FINAL FORM_11
+  - first:
+      213: -3990893866282454012
+    second: Evil Wizard Boss FINAL FORM_12
+  - first:
+      213: 7063662695126966547
+    second: Evil Wizard Boss FINAL FORM_13
+  - first:
+      213: 4462477410807938432
+    second: Evil Wizard Boss FINAL FORM_14
+  - first:
+      213: 2431186743726792579
+    second: Evil Wizard Boss FINAL FORM_15
+  - first:
+      213: -5526608163017894446
+    second: Evil Wizard Boss FINAL FORM_16
+  - first:
+      213: -6520196882329818751
+    second: Evil Wizard Boss FINAL FORM_17
+  - first:
+      213: 4767614695869235541
+    second: Evil Wizard Boss FINAL FORM_18
+  - first:
+      213: -6787915961706631696
+    second: Evil Wizard Boss FINAL FORM_19
+  - first:
+      213: 4721274300786726714
+    second: Evil Wizard Boss FINAL FORM_20
+  - first:
+      213: -7678228810862207672
+    second: Evil Wizard Boss FINAL FORM_21
+  - first:
+      213: 3642141032293994575
+    second: Evil Wizard Boss FINAL FORM_22
+  - first:
+      213: 8302757291467481186
+    second: Evil Wizard Boss FINAL FORM_23
+  - first:
+      213: -7118402293338454179
+    second: Evil Wizard Boss FINAL FORM_24
+  - first:
+      213: 8432578565579421833
+    second: Evil Wizard Boss FINAL FORM_25
+  - first:
+      213: -2385841435820830639
+    second: Evil Wizard Boss FINAL FORM_26
+  - first:
+      213: 9210212310776887596
+    second: Evil Wizard Boss FINAL FORM_27
+  - first:
+      213: -2562964551918689510
+    second: Evil Wizard Boss FINAL FORM_28
+  - first:
+      213: -2959436544680416789
+    second: Evil Wizard Boss FINAL FORM_29
+  - first:
+      213: -2330087609846468587
+    second: Evil Wizard Boss FINAL FORM_30
+  - first:
+      213: -3389246135300218640
+    second: Evil Wizard Boss FINAL FORM_31
+  - first:
+      213: -1387954283660187499
+    second: Evil Wizard Boss FINAL FORM_32
+  - first:
+      213: -6921958496183255015
+    second: Evil Wizard Boss FINAL FORM_33
+  - first:
+      213: -6211753609508049423
+    second: Evil Wizard Boss FINAL FORM_34
+  - first:
+      213: 7445117862698204700
+    second: Evil Wizard Boss FINAL FORM_35
+  - first:
+      213: -7527371147437221256
+    second: Evil Wizard Boss FINAL FORM_36
+  - first:
+      213: -4437941212410018034
+    second: Evil Wizard Boss FINAL FORM_37
+  - first:
+      213: -4948069472603194369
+    second: Evil Wizard Boss FINAL FORM_38
+  - first:
+      213: -1932848484158188594
+    second: Evil Wizard Boss FINAL FORM_39
+  - first:
+      213: 5563251222806956822
+    second: Evil Wizard Boss FINAL FORM_40
+  - first:
+      213: 7247973113942332683
+    second: Evil Wizard Boss FINAL FORM_41
+  - first:
+      213: -5950461096551750864
+    second: Evil Wizard Boss FINAL FORM_42
+  - first:
+      213: -9085909845074611893
+    second: Evil Wizard Boss FINAL FORM_43
+  - first:
+      213: -2825699523143218355
+    second: Evil Wizard Boss FINAL FORM_44
+  - first:
+      213: 229327206499668418
+    second: Evil Wizard Boss FINAL FORM_45
+  - first:
+      213: -3533726944290884563
+    second: Evil Wizard Boss FINAL FORM_46
+  - first:
+      213: 424431318605041620
+    second: Evil Wizard Boss FINAL FORM_47
+  - first:
+      213: 596390956209650109
+    second: Evil Wizard Boss FINAL FORM_48
+  - first:
+      213: 8634319927512976036
+    second: Evil Wizard Boss FINAL FORM_49
+  - first:
+      213: -2658950697716106692
+    second: Evil Wizard Boss FINAL FORM_50
+  - first:
+      213: 2671816480751591297
+    second: Evil Wizard Boss FINAL FORM_51
+  - first:
+      213: -572742612709772599
+    second: Evil Wizard Boss FINAL FORM_52
+  - first:
+      213: 1347886182831857880
+    second: Evil Wizard Boss FINAL FORM_53
+  - first:
+      213: 7015615878066024918
+    second: Evil Wizard Boss FINAL FORM_54
+  - first:
+      213: 6244826501251872931
+    second: Evil Wizard Boss FINAL FORM_55
+  - first:
+      213: 909992874403218727
+    second: Evil Wizard Boss FINAL FORM_56
+  - first:
+      213: -5846435627323082381
+    second: Evil Wizard Boss FINAL FORM_57
+  - first:
+      213: 6528449809754630425
+    second: Evil Wizard Boss FINAL FORM_58
+  - first:
+      213: -3242927077685461882
+    second: Evil Wizard Boss FINAL FORM_59
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 574
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e54508720965640972de7b0f00aded
+      internalID: 1000114819610111317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 574
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d23e0f64de83b14c957a82293c9aa53
+      internalID: 5627918243236585636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 574
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a520d57acb35740a3dcf8d5a52b725
+      internalID: 7867442789481067952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 574
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bda8979b53b3094b8cfdfabd74a0ec2
+      internalID: 7946998704952546444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 574
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23035141e69d0a34b9c28753bf91d0a6
+      internalID: 27249882367273699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 574
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d104ac6d18d3e45a35e8e859fa150a
+      internalID: -6600759710465645687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_6
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 574
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4203e0a2cadb61c49905d654195834e0
+      internalID: -3873567749560125913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_7
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 574
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13552cd8a3887d745bc1f219c8519a24
+      internalID: -5208197835695943090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 492
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f2558d2315ca745a5a750d0b2002a8
+      internalID: 3201989426324078055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 492
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ef51c118a0ce1408309ff0e8729425
+      internalID: 8007997491866513624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 492
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33a4ff4d851a974b9059ecb09e388ba
+      internalID: -3367918571265464415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_11
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 492
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bc44d6c44a22b46be4a452d7bc2bf0
+      internalID: -3490000188686275008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_12
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 492
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a138b9aaa7ca4042a4923e992eb3dad
+      internalID: -3990893866282454012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_13
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 492
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cbc5aa463e5464b8462dd2170f58d4
+      internalID: 7063662695126966547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_14
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 492
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236ac091e1d61dd4eac9f34d33d5864c
+      internalID: 4462477410807938432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_15
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 492
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe43d8f7787342458a27c5c1d4a94bd
+      internalID: 2431186743726792579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a94ac4485fd0fc4dbdb582e04965606
+      internalID: -5526608163017894446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 410
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636bd05eeae6d1b45bd97104d96df839
+      internalID: -6520196882329818751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_18
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 410
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd1ce89fc0b52043949ac87db6b35a0
+      internalID: 4767614695869235541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_19
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 410
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ba56ca7e5ffc64c8d01f7a44fb1531
+      internalID: -6787915961706631696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_20
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 410
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912b468fdefd2fa4dbf3a08df8f70a0e
+      internalID: 4721274300786726714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_21
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 410
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b728410ae312e474da7d4acd3ae4484f
+      internalID: -7678228810862207672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_22
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 410
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5682da5fc0206478d67fab997aadcd
+      internalID: 3642141032293994575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_23
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 410
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e21ee21a697be45984620cd6fd4fdc
+      internalID: 8302757291467481186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9bbb00d4ce77d4bb6691ea1e9ebbb1
+      internalID: -7118402293338454179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 328
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a849969ab01d8479b83ed71476fc1e
+      internalID: 8432578565579421833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_26
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 328
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc15720712f59644a55f27f98417b66
+      internalID: -2385841435820830639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_27
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 328
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df9f1d97cf64e14a9885854df0e00bf
+      internalID: 9210212310776887596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_28
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 328
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f540a82255104742aaa9d2f70c4eaa0
+      internalID: -2562964551918689510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_29
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 328
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8141b8c82f67824da4c3a8dde503428
+      internalID: -2959436544680416789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_30
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 328
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b648a3f1843e7024d8123f589d431001
+      internalID: -2330087609846468587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_31
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 328
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd91884a5c67e2448afc2a537cb7289
+      internalID: -3389246135300218640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8092a7477792c054cad74e037337a256
+      internalID: -1387954283660187499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_33
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 246
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968b702bd8bf37046a3b08effe8372a6
+      internalID: -6921958496183255015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_34
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 246
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0177559dd664d4e47a3437d7a91b9913
+      internalID: -6211753609508049423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_35
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 246
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdabe42ef4c663489f28d887f77f8b1
+      internalID: 7445117862698204700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_36
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 246
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4ccd941d9c80544a014da54c909fc7
+      internalID: -7527371147437221256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_37
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 246
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0178217ca8e0f014689bdba6f996a629
+      internalID: -4437941212410018034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_38
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 246
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd743e932cb75741b338261930efcd5
+      internalID: -4948069472603194369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_39
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 246
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd67cad11d40b94faa91bceebe3a52d
+      internalID: -1932848484158188594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212936604d049a44ab5332fdc7f1f60c
+      internalID: 5563251222806956822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_41
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 164
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdc10be61c79b946af72a8ddc0890bd
+      internalID: 7247973113942332683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_42
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 164
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb029d5ac87fdce45a9204cbd51fb731
+      internalID: -5950461096551750864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_43
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 164
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc973fcff02ff641aa89e7719d564c0
+      internalID: -9085909845074611893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_44
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 164
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86a120bd6b64a14eb3d7974030fbb6a
+      internalID: -2825699523143218355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_45
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 164
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3baa76a9c69a344a325b977e84ed86
+      internalID: 229327206499668418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_46
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 164
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39be2d8dd3e36a74ba7c74967b938640
+      internalID: -3533726944290884563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_47
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 164
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684a0280d5b7b9640b56cc3e0fa9856d
+      internalID: 424431318605041620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e3dab39c8f5ba4f9362c7ef9e0f632
+      internalID: 596390956209650109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_49
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 82
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3003d9581bccb438635374088bef5c
+      internalID: 8634319927512976036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_50
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 82
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd361a0e5205224a8ea11f38d75c732
+      internalID: -2658950697716106692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_51
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 82
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77bf9ac71e65074fb37b9f847b37652
+      internalID: 2671816480751591297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_52
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 82
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee61a75f6310c84439314e1d99fc646e
+      internalID: -572742612709772599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_53
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 82
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a25de81f3780347855d04d55d11c95
+      internalID: 1347886182831857880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_54
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 82
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c06327ed61af04eb06772e0586a6f8
+      internalID: 7015615878066024918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_55
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 82
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa196e6f971f7934a9ebbb0207d1ad46
+      internalID: 6244826501251872931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc2bd8853967134abf3e929746b9df0
+      internalID: 909992874403218727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_57
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa2f677038096c49a75d3109637fe7c
+      internalID: -5846435627323082381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_58
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19535d8e95774649a1bbf2eaa59dede
+      internalID: 6528449809754630425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evil Wizard Boss FINAL FORM_59
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a968275cabd0ab0479270dea5455d572
+      internalID: -3242927077685461882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
