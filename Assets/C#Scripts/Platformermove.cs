@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlatformRemove : MonoBehaviour
+public class Platformermove : MonoBehaviour
 {
     public float moveSpeed = 1.0f;
     public float jumpSpeed = 1.0f;

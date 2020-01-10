@@ -50,9 +50,4 @@ public class levelSwitchingScript : MonoBehaviour
             bool sand2complete = true;
         }
     }
-    private void
-    {
-       if bool fire1complete = true && bool fire2complete = true && bool water1complete = true && bool water2complete = true && bool sand1complete = true && sand2complete = true;
 }
-
-
