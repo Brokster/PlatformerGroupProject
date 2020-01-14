@@ -8,4 +8,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/0stageSelect.unity
+    guid: 9d4a6c4ab2a8d70429780c58303642fd
+  - enabled: 1
+    path: Assets/Scenes/1fireRealm.unity
+    guid: cfbd802a136cc3b48971f4b0ca1c20e3
+  - enabled: 1
+    path: Assets/Scenes/1sandRealm.unity
+    guid: d7665beee47bfc245985d7e3c904798b
+  - enabled: 1
+    path: Assets/Scenes/1waterRealm.unity
+    guid: 9b3592c0d9094d945a48c827fa4dd6f0
+  - enabled: 1
+    path: Assets/Scenes/2darkCastle.unity
+    guid: 47855461d54b6d044a4a5de53935f874
+  - enabled: 1
+    path: Assets/Scenes/3voidRealm.unity
+    guid: 8b52b31796390c44dbec421ba3d1d13c
+  - enabled: 1
+    path: Assets/Scenes/death.unity
+    guid: c33041656533bdf4e8dfd128df5d08ee
   m_configObjects: {}
