@@ -1,9 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
-public class MainMenu : MonoBehaviour
+public class playerShoot : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -15,13 +14,5 @@ public class MainMenu : MonoBehaviour
     void Update()
     {
         
-    }
-    public void QuitGame()
-    {
-        Application.Quit();
-    }
-    public void PlayMaze()
-    {
-        SceneManager.LoadScene("Maze");
     }
 }

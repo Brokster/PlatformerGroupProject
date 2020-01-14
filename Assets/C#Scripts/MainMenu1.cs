@@ -13,6 +13,6 @@ public class MainMenu1 : MonoBehaviour
     public void PlayGame()
     {
         SceneManager.LoadScene("board-1");
-        PlayerPrefs.SetInt("lives", value: 3);
+
     }
 }
