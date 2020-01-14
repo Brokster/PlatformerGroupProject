@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class WaveShotPattern : MonoBehaviour
+public class WaterBossWaveShot : MonoBehaviour
 {
     public float MoveSpeed = 5.0f;
 
