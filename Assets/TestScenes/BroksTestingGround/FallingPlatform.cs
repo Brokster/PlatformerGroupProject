@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FallingPlatforms : MonoBehaviour
+public class FallingPlatform : MonoBehaviour
 {
     Rigidbody2D rb;
     void Start()
@@ -11,9 +11,9 @@ public class FallingPlatforms : MonoBehaviour
     }
 
     // Update is called once per frame
-    void OnCollisionEnter2D (Collision col)
+    void OnCollisionEnter2D (Collision2D col)
     {
-        if (col.gameObject.name.Equals ("Player"))
+        if (col.gameObject.name.Equals ("player"))
         {
             Invoke("DropPlatform", 0.5f);
             Destroy(gameObject, 2f);

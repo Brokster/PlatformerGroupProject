@@ -12,7 +12,7 @@ public class DisapperingPlatformScript : MonoBehaviour {
     }
     void OnCollisionEnter2D (Collision2D col)
     {
-        if (col.gameObject.name.Equals("Player"))
+        if (col.gameObject.name.Equals("player"))
         {
             {
                 Destroy(gameObject, 2f);
