@@ -12,6 +12,7 @@ public class EnemyAI : MonoBehaviour
     public Vector2 paceDirection;
     Vector3 startPosition;
     bool home = true;
+    public bool movingRight = false;
     // Start is called before the first frame update
     void Start()
     {
@@ -25,7 +26,8 @@ public class EnemyAI : MonoBehaviour
         if (chaseDirection.magnitude < chaseTriggerDistance)
         {
             Chase();
-        } else if (!home)
+        }
+        else if (!home)
         {
             GoHome();
         }
@@ -45,10 +47,11 @@ public class EnemyAI : MonoBehaviour
     void GoHome()
     {
         Vector2 homeDirection = new Vector2(startPosition.x - transform.position.x, startPosition.y - transform.position.y);
-        if(homeDirection.magnitude < 0.2f)
+        if (homeDirection.magnitude < 0.2f)
         {
             transform.position = startPosition;
             home = true;
+
         }
         else
         {
@@ -59,11 +62,23 @@ public class EnemyAI : MonoBehaviour
     void pace()
     {
         Vector3 displacement = transform.position - startPosition;
-        if(displacement.magnitude >= paceDistance)
+        if (displacement.magnitude >= paceDistance)
         {
             paceDirection = -displacement;
+            if (movingRight == false)
+            {
+                GetComponent<SpriteRenderer>().flipX = false;
+                movingRight = true;
+            }
+            else
+            {
+                GetComponent<SpriteRenderer>().flipX = true;
+                movingRight = false;
+            }
+
         }
         paceDirection.Normalize();
         GetComponent<Rigidbody2D>().velocity = paceDirection * paceSpeed;
+
     }
 }
