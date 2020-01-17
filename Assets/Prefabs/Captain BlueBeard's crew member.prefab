@@ -17,6 +17,7 @@ GameObject:
   - component: {fileID: 7998923213038861213}
   - component: {fileID: 7998923213038861212}
   - component: {fileID: 5803192533479614184}
+  - component: {fileID: -5259580080337977245}
   m_Layer: 8
   m_Name: Captain BlueBeard's crew member
   m_TagString: Enemy
@@ -229,5 +230,18 @@ MonoBehaviour:
   paceSpeed: 1.5
   paceDistance: 3
   chaseTriggerDistance: 3
-  paceDirection: {x: 1, y: 0}
-  movingRight: 0
+  paceDirection: {x: -1, y: 0}
+  movingRight: 1
+--- !u!114 &-5259580080337977245
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7998923213038861201}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 622a0f4712b2c5142b3aa4ce4fb1b16c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  HP: 10

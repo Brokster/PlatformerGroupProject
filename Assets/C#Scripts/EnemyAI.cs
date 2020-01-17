@@ -65,7 +65,7 @@ public class EnemyAI : MonoBehaviour
         if (displacement.magnitude >= paceDistance)
         {
             paceDirection = -displacement;
-            if (movingRight == false)
+            if (paceDirection.x < 0)
             {
                 GetComponent<SpriteRenderer>().flipX = false;
                 movingRight = true;
