@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class PlayerHP : MonoBehaviour
 {
+    bool damage = false;
     bool dead = false;
     int maxHP;
     int currentHP;
@@ -23,6 +24,7 @@ public class PlayerHP : MonoBehaviour
     void ApplyDamage(int enemy)
     {
         currentHP--;
+        damage = true;
     }
 
     void KillPlayer()
