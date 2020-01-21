@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 7187048651944439716}
   - component: {fileID: 7187048651944439717}
   - component: {fileID: 7187048651944439718}
-  - component: {fileID: 3847099926263238980}
   - component: {fileID: 3035068608300294923}
   - component: {fileID: 2934063226231515304}
   - component: {fileID: 7187048651944439719}
@@ -80,18 +79,6 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
---- !u!114 &3847099926263238980
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7187048651944439723}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9c72db3848b30774c933bfa71ff73b0a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &3035068608300294923
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -104,7 +91,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e07c5e7de871f0499ba8c5687b7554d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefab: {fileID: 0}
+  prefab: {fileID: 6470664491519923776, guid: 965be2bd82cbeb1489b738ee7709eaf7, type: 3}
   bulletSpeed: 10
   bulletLifetime: 1
   shootDelay: 1

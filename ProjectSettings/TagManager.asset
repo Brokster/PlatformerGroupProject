@@ -7,6 +7,8 @@ TagManager:
   - Enemy
   - bullet
   - portal
+  - Death
+  - player
   layers:
   - Default
   - TransparentFX
@@ -16,9 +18,9 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - Player
+  - Bullet
+  - Enemy
   - 
   - 
   - 
