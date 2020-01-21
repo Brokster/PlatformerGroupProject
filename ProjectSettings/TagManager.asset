@@ -4,18 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Enemy
+  - player
   - bullet
-  - portal
-<<<<<<< HEAD
-  - Death
-  - player
-=======
-  - player
-  - fire1
-  - sand1
-  - water1
->>>>>>> 14120931597838d869c5ca7a43447dcaa5c3ee52
   layers:
   - Default
   - TransparentFX
@@ -25,9 +15,9 @@ TagManager:
   - UI
   - 
   - 
-  - Player
-  - Bullet
-  - Enemy
+  - 
+  - 
+  - 
   - 
   - 
   - 
