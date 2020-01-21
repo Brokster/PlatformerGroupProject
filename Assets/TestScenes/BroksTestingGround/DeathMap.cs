@@ -10,6 +10,7 @@ public class DeathMap : MonoBehaviour
         if (collision.gameObject.tag == "Death")
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+            //lives--;
         }
     }
 }
