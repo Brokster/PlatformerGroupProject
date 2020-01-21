@@ -7,6 +7,10 @@ TagManager:
   - Enemy
   - bullet
   - portal
+  - player
+  - fire1
+  - sand1
+  - water1
   layers:
   - Default
   - TransparentFX

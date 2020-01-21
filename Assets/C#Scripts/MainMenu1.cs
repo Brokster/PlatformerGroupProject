@@ -10,9 +10,24 @@ public class MainMenu1 : MonoBehaviour
     {
         Application.Quit();
     }
-    public void PlayGame()
+    public void Playfire()
     {
-        SceneManager.LoadScene("board-1");
+        SceneManager.LoadScene("1fireRealm");
+
+    }
+    public void Playsand()
+    {
+        SceneManager.LoadScene("1sandRealm");
+
+    }
+    public void Playwater()
+    {
+        SceneManager.LoadScene("1waterRealm");
+
+    }
+    public void Playtutorial()
+    {
+        SceneManager.LoadScene("0tutorial");
 
     }
 }
