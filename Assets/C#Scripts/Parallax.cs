@@ -6,7 +6,8 @@ public class Parallax : MonoBehaviour
 {
     Transform cam;
     Vector3 previousCamPos;
-    public float parallaxScale;
+    public float parallaxScaleX;
+    public float parallaxScaleY;
 
     // Start is called before the first frame update
     void Start()
@@ -18,11 +19,11 @@ public class Parallax : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        float parallax = (previousCamPos.x - cam.position.x) * parallaxScalex;
-        float parallay = (previousCamPos.y - cam.position.y) * parallaxScaley;
+        float parallaxX = (previousCamPos.x - cam.position.x) * parallaxScaleX;
+        float parallaxY = (previousCamPos.y - cam.position.y) * parallaxScaleY;
         Vector3 pos = transform.position;
-        pos.x += parallax;
-        pos.y += parallaxy;
+        pos.x += parallaxX;
+        pos.y += parallaxY;
         transform.position = pos;
         previousCamPos = cam.position;
     }
