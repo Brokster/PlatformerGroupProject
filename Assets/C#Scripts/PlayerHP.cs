@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class PlayerHP : MonoBehaviour
 {
     bool damage = false;
-    bool dead = false;
+    bool Death = false;
     int maxHP;
     int currentHP;
     GameObject deathModel;
@@ -21,7 +21,7 @@ public class PlayerHP : MonoBehaviour
 
     }
 
-    void ApplyDamage(int enemy)
+    void ApplyDamage(int Enemy)
     {
         currentHP--;
         damage = true;
@@ -31,7 +31,7 @@ public class PlayerHP : MonoBehaviour
     {
         {
             SceneManager.LoadScene("death");
-             dead = true;
+             Death = true;
         }
     }
 
